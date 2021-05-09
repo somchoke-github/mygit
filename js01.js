@@ -1,3 +1,3 @@
 document.write("Hello github <br>")
-document.write("Hello git World")
-console.log("555")
+document.write("Hello git World <br>")
+document.write("สวัสดี ชาวจิตฮะ")
